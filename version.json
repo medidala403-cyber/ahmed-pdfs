@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "pdfs": [
+    {
+      "id": "sti",
+      "title": "STI",
+      "url": "https://raw.githubusercontent.com/medidala403-cyber/ahmed-pdfs/main/STI.pdf"
+    },
+    {
+      "id": "erectile_dysfunction",
+      "title": "Erectile Dysfunction",
+      "url": "https://raw.githubusercontent.com/medidala403-cyber/ahmed-pdfs/main/erectile_dysfunction.pdf"
+    },
+    {
+      "id": "menstrual_health",
+      "title": "Menstrual Health",
+      "url": "https://raw.githubusercontent.com/medidala403-cyber/ahmed-pdfs/main/menstrual_health.pdf"
+    },
+    {
+      "id": "mental_wellbeing",
+      "title": "Mental Wellbeing",
+      "url": "https://raw.githubusercontent.com/medidala403-cyber/ahmed-pdfs/main/mental_wellbeing.pdf"
+    },
+    {
+      "id": "unplanned_pregnancy",
+      "title": "Unplanned Pregnancy",
+      "url": "https://raw.githubusercontent.com/medidala403-cyber/ahmed-pdfs/main/unplanned_pregnancy.pdf"
+    }
+  ]
+}
