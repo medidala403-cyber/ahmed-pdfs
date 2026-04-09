@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "title": "STI",
+      "file": "STI.pdf",
+      "description": "Information about sexually transmitted infections"
+    },
+    {
+      "title": "Erectile Dysfunction",
+      "file": "erectile_dysfunction.pdf",
+      "description": "Guidance on erectile dysfunction"
+    },
+    {
+      "title": "Menstrual Health",
+      "file": "menstrual_health.pdf",
+      "description": "Guidance on menstrual health"
+    },
+    {
+      "title": "Mental Wellbeing",
+      "file": "mental_wellbeing.pdf",
+      "description": "Guidance on mental health"
+    },
+    {
+      "title": "Unplanned Pregnancy",
+      "file": "unplanned_pregnancy.pdf",
+      "description": "Information about unplanned pregnancy"
+    }
+  ]
+}
